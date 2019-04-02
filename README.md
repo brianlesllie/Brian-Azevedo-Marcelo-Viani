@@ -56,24 +56,6 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 | Controle de nível de envase             | Sensor Ultrassônico JSN-SR04T          | 1                 |
 | Análise de cores de matéria prima       | Sensor de Cor TCS3200                  | 1                 |
 | Leitura OCR                             | USB Host Shield                        | 1                 |
-|  e Verificação de rotulagem             | Leitor Código De Barras Laser Cabo Usb | 1                 |
-|                                         |  Câmera VGA ou webcam                  | 1                 |
+| &                                       | Leitor Código De Barras Laser Cabo Usb | 1                 |
+| Verificação de rotulagem                |  Câmera VGA ou webcam                  | 1                 |
 | Inspeção e testes                       | GY906   (temperatura)                  | 1                 |
-
- 
-
-### ESCOPO DAS ETAPAS DO PROJETO: 
-
-1. Verificação de Rotulagem: O procedimento consiste em analisar o rótulo da garrafa de vidro utilizando 
-
-um sensor OCR (SR-600HA). 
-
-2. Controle de Nível de Envase: Através de um sensor ultrassônico, será possível averiguar se a 
-
-garrafa está cheia, pois ele fornecerá quanto de volume contém na garrafa de vidro. 
-
-3. Análise de Cores de Matéria Prima: Será utilizado um sensor RGB (TCS 230) para fornecer a cor presente no líquido do interior da garrafa de vidro (a cor da garrafa é verde). 
-
-4. Leitura OCR de Lote e Validade: O mesmo sensor OCR que será empregado na Verificação de Rotulagem será útil na análise de lote e validade. O objetivo da análise de leitura de imagem pelo sensor será obter dados para serem armazenados na nuvem. 
-
-5. Verificação de Temperatura: Será utilizado um sensor de temperatura (GY906) para obter a temperatura ambiente e a temperatura do líquido presente no interior da garrafa. 
