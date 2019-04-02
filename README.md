@@ -49,7 +49,7 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 
 
 
-#### Quadro 1: Delimitadores Tecnológicos *versus* Tecnologias.
+#### Quadro 1: Delimitadores Tecnológicos versus Tecnologias.
 
 | **Delimitadores Tecnológicos**          | **Tecnologias**                        | **Quantidade(s)** |
 | --------------------------------------- | -------------------------------------- | ----------------- |
