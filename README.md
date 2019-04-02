@@ -51,12 +51,11 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 
 #### Quadro 1: Delimitadores Tecnológicos versus Tecnologias.
 
-| **Delimitadores Tecnológicos**          | **Tecnologias**                        | **Quantidade(s)** |
-| --------------------------------------- | -------------------------------------- | ----------------- |
-| Controle de nível de envase             | Sensor Ultrassônico JSN-SR04T          | 1                 |
-| Análise de cores de matéria prima       | Sensor de Cor TCS3200                  | 1                 |
-| Leitura OCR                             | USB Host Shield                        | 1                 |
-| &                                       | Leitor Código De Barras Laser Cabo Usb | 1                 |
-| Verificação de rotulagem                | Câmera VGA ou webcam                   | 1                 |
-| Inspeção                                | Sensor de temperatura MLX90614         | 1                 |
-| e testes                                | Sensor óptico Infravermelho TCRT5000   | 4                 |
+| **Delimitadores Tecnológicos**          | **Tecnologias**                           | **Quantidade(s)** |
+| --------------------------------------- | ----------------------------------------- | ----------------- |
+| Controle de nível de envase             | Sensor Ultrassônico JSN-SR04T             | 1                 |
+| Análise de cores de matéria prima       | Sensor de Cor TCS3200                     | 1                 |
+| Leitura OCR                             | Webcam                                    | 1                 |
+| e verificação                           | Leitor Código De Barras + USB Host Shield | 1                 |
+| Inspeção                                | Sensor de temperatura MLX90614            | 1                 |
+| e testes                                | Sensor óptico Infravermelho TCRT5000      | 4                 |
