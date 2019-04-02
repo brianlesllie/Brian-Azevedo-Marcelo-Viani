@@ -51,13 +51,13 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 
 #### Quadro 1: Delimitadores Tecnológicos *versus* Tecnologias.
 
-| **Delimitadores Tecnológicos**      | **Tecnologias**                | **Quantidade(s)** |
-| ----------------------------------- | ------------------------------ | ----------------- |
-| Verificação   de rotulagem          | Sensor   SR-600ha (em análise) | 1                 |
-| Controle   de nível de envase       | Sensor   HCSR04                | 1                 |
-| Análise   de cores de matéria prima | Sensor   TCS230                | 1                 |
-| Leitura   OCR                       | Celular   com Scam + NewOCR    | 0                 |
-| Inspeção   e testes                 | GY906   (temperatura)          | 1                 |
+| **Delimitadores Tecnológicos**          | **Tecnologias**                        | **Quantidade(s)** |
+| --------------------------------------- | -------------------------------------- | ----------------- |
+| Controle de nível de envase             | Sensor Ultrassônico JSN-SR04T          | 1                 |
+| Análise de cores de matéria prima       | Sensor de Cor TCS3200                  | 1                 |
+| Leitura OCR                             | USB Host Shield                        | 1                 |
+|  e Verificação de rotulagem             | Leitor Código De Barras Laser Cabo Usb | 1                 |
+| Inspeção e testes                       | GY906   (temperatura)                  | 1                 |
 
  
 
