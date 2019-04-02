@@ -57,6 +57,7 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 | Análise de cores de matéria prima       | Sensor de Cor TCS3200                  | 1                 |
 | Leitura OCR                             | USB Host Shield                        | 1                 |
 |  e Verificação de rotulagem             | Leitor Código De Barras Laser Cabo Usb | 1                 |
+                                            Câmera VGA ou webcam                     1
 | Inspeção e testes                       | GY906   (temperatura)                  | 1                 |
 
  
