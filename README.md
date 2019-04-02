@@ -1,5 +1,15 @@
-Tecnologia aplicada na Indústria
-================================
+# Campus Florianópolis
+
+Departamento Acadêmico de Eletrônica
+
+Curso de Engenharia Eletrônica
+
+Projeto Integrador II
+
+Brian Azevedo & Marcelo Viani
+
+
+### 1.INTRODUÇÃO
 
 A necessidade de produção em grandes escalas, decorrente do aumento
 populacional e da migração das pessoas do campo para as cidades, levou, há anos
@@ -32,3 +42,37 @@ temperatura e velocidade devem ser aplicadas para gerar a melhor eficiência pos
 Esses aspectos analisados são apenas alguns do que se é e ainda pode ser
 aplicado na indústria, com a inserção da tecnologia na indústria, visando ter uma
 melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucro.
+
+
+
+### 2.CONCEPÇÃO
+
+
+
+#### Quadro 1: Delimitadores Tecnológicos *versus* Tecnologias.
+
+| **Delimitadores Tecnológicos**      | **Tecnologias**                | **Quantidade(s)** |
+| ----------------------------------- | ------------------------------ | ----------------- |
+| Verificação   de rotulagem          | Sensor   SR-600ha (em análise) | 1                 |
+| Controle   de nível de envase       | Sensor   HCSR04                | 1                 |
+| Análise   de cores de matéria prima | Sensor   TCS230                | 1                 |
+| Leitura   OCR                       | Celular   com Scam + NewOCR    | 0                 |
+| Inspeção   e testes                 | GY906   (temperatura)          | 1                 |
+
+ 
+
+### ESCOPO DAS ETAPAS DO PROJETO: 
+
+1. Verificação de Rotulagem: O procedimento consiste em analisar o rótulo da garrafa de vidro utilizando 
+
+um sensor OCR (SR-600HA). 
+
+2. Controle de Nível de Envase: Através de um sensor ultrassônico, será possível averiguar se a 
+
+garrafa está cheia, pois ele fornecerá quanto de volume contém na garrafa de vidro. 
+
+3. Análise de Cores de Matéria Prima: Será utilizado um sensor RGB (TCS 230) para fornecer a cor presente no líquido do interior da garrafa de vidro (a cor da garrafa é verde). 
+
+4. Leitura OCR de Lote e Validade: O mesmo sensor OCR que será empregado na Verificação de Rotulagem será útil na análise de lote e validade. O objetivo da análise de leitura de imagem pelo sensor será obter dados para serem armazenados na nuvem. 
+
+5. Verificação de Temperatura: Será utilizado um sensor de temperatura (GY906) para obter a temperatura ambiente e a temperatura do líquido presente no interior da garrafa. 
