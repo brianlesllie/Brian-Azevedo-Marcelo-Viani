@@ -15,4 +15,4 @@
 - Sensor de temperatura MLX90614  
   - Quantidade:1  
 - Sensor óptico Infravermelho TCRT5000  
-  - Quantidade:1  
+  - Quantidade:4  
