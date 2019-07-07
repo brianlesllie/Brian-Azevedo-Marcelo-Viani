@@ -9,7 +9,7 @@ Projeto Integrador II
 Brian Azevedo & Marcelo Viani
 
 
-### 1.INTRODUÇÃO
+### INTRODUÇÃO
 
 A necessidade de produção em grandes escalas, decorrente do aumento
 populacional e da migração das pessoas do campo para as cidades, levou, há anos
@@ -45,8 +45,9 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 
 
 
-### 2.CONCEPÇÃO
-
+### CONCEPÇÃO
+A concepção é a etapa do projeto em que serão conhecidos os requisitos do projeto
+e propostas as soluções para atender os requisitos exigidos.
 
 
 #### Quadro 1: Delimitadores Tecnológicos versus Tecnologias.
