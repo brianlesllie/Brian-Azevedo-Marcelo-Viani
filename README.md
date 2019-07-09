@@ -48,7 +48,19 @@ melhor qualidade, agilidade, menos gastos e assim, no fim, gerando um maior lucr
 ### CONCEPÇÃO
 A concepção é a etapa do projeto em que serão conhecidos os requisitos do projeto
 e propostas as soluções para atender os requisitos exigidos.
+O projeto consiste no controle da produção industrial de uma garrafa de 1,5L de suco.
+O processo de verificação é dividido em 4 etapas.
 
+### 1° Etapa - Análise de cor da matéria-prima
+Um sensor de presença irá confirmar a presença da garrafa para iniciar o processo de análise
+da cor atraves do sensor TCS230, o sensor de cor vai dar um código RGB e esse código vai ser
+verificado para ver se está dentro do padrão esperado.
+
+### 2° Etapa - Controle do nível de envase
+Na nova posição da garrafa estão posicionados mais dois sensores, sendo um deles o sensor de 
+presença e o outro o JSN-SR04T, que é um sensor ultrassônico. O JSN-SR04T vai enviar um sinal
+ultrassônico que vai refletir na superficie e então o sensor vai captar o sinal refletido e 
+retornar o tempo 
 
 #### Quadro 1: Delimitadores Tecnológicos versus Tecnologias.
 
